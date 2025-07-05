@@ -1,0 +1,37 @@
+0.0.0.0 roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 web.roblox.com
+0.0.0.0 api.roblox.com
+0.0.0.0 games.roblox.com
+0.0.0.0 rbxcdn.com
+
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
+0.0.0.0 fortnite.com
+0.0.0.0 launcher.epicgames.com
+0.0.0.0 fortnitecdn.com
+0.0.0.0 epicgames-download1.akamaized.net
+
+0.0.0.0 discord.com
+0.0.0.0 canary.discord.com
+0.0.0.0 ptb.discord.com
+0.0.0.0 media.discordapp.net
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+
+0.0.0.0 omegle.com
+0.0.0.0 chatroulette.com
+0.0.0.0 tinychat.com
+0.0.0.0 y99.in
+
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 vm.tiktok.com
+
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.x.com
